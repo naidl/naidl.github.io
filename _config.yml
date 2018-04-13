@@ -1,18 +1,18 @@
 # Site settings
-title: Alexis Cook
+title: Abhishek
 description: 'Deep Learning Professional'
-url: 'https://alexisbcook.github.io'
+url: 'https://naidl.github.io'
 baseurl: ''
-google_analytics: 'UA-83225772-1'
-disqus_shortname: 'alexisbcook-github-io'
+google_analytics: 'UA-117480447-1'
+disqus_shortname: 'naidl-github-io'
 
 author:
-  name: 'Alexis Cook'
-  email: alexis.cook@gmail.com
-  twitter_username: alexis_b_cook
-  facebook_username: alexis.cook
-  github_username:  alexisbcook
-  linkedin_username:  alexis-cook-a6127753
+  name: 'Abhishek'
+  email: abhicoo@gmail.com
+  twitter_username: AbhiDroid
+  facebook_username: 784803416
+  github_username:  naidl
+  linkedin_username:  abhishek-kumar-bab92159
 
 defaults:
   -
