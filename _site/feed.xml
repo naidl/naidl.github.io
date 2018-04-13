@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Alexis Cook</title>
+    <title>Abhishek</title>
     <description>Deep Learning Professional</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 15 Dec 2017 00:51:07 -0600</pubDate>
-    <lastBuildDate>Fri, 15 Dec 2017 00:51:07 -0600</lastBuildDate>
+    <pubDate>Sat, 14 Apr 2018 01:48:43 +0530</pubDate>
+    <lastBuildDate>Sat, 14 Apr 2018 01:48:43 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -83,7 +83,7 @@
 
 &lt;p&gt;If you’d like to use this code to do your own object localization, you need only download the &lt;a href=&quot;https://github.com/alexisbcook/ResNetCAM-keras&quot;&gt;repository&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 09 Apr 2017 06:39:23 -0500</pubDate>
+        <pubDate>Sun, 09 Apr 2017 17:09:23 +0530</pubDate>
         <link>http://localhost:4000/2017/global-average-pooling-layers-for-object-localization/</link>
         <guid isPermaLink="true">http://localhost:4000/2017/global-average-pooling-layers-for-object-localization/</guid>
         
@@ -155,7 +155,7 @@
 
 &lt;p&gt;Can you do better with other architectures?  Feel free to download the &lt;a href=&quot;https://github.com/alexisbcook/keras_transfer_cifar10&quot;&gt;repository&lt;/a&gt; on GitHub and try your own hand at transfer learning!&lt;/p&gt;
 </description>
-        <pubDate>Sat, 08 Apr 2017 06:39:23 -0500</pubDate>
+        <pubDate>Sat, 08 Apr 2017 17:09:23 +0530</pubDate>
         <link>http://localhost:4000/2017/using-transfer-learning-to-classify-images-with-keras/</link>
         <guid isPermaLink="true">http://localhost:4000/2017/using-transfer-learning-to-classify-images-with-keras/</guid>
         
